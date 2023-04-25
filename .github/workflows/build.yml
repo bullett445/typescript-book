@@ -42,3 +42,4 @@ jobs:
         with:
           name: typescript-book.mobi
           path: output/typescript-book-${{ env.SHA }}.mobi
+
